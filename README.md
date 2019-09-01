@@ -1,6 +1,3 @@
-# intro
-Want to brush up on C++ basic and get ready to code? Read my summary of C++ basic. It covers all the basic concepts of c++.
-
 # C++ basics in 1 hour
 
 ### some concepts
